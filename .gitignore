@@ -1,0 +1,7 @@
+bin/
+<<<<<<< HEAD
+=======
+.settings/
+.classpath
+.project
+>>>>>>> aabd9cd07c31eadeea3d5857067fde891eb38ad9
